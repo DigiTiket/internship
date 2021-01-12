@@ -1,3 +1,5 @@
 - [Dedy Pamungkas](https://github.com/dedypamungkas)
 - [Muhammad Nur Alim](https://github.com/Limeless04)
+- [Mgs. Tabrani](https://github.com/mgstabrani)
+- [Mulia Hartawan Negara](https://github.com/MuliaHartawan)
 - [Muhamad Irsyad Rafi Sudirjo](https://github.com/IrsyadRafiSudirjo)
