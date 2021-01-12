@@ -4,3 +4,4 @@
 - [Mulia Hartawan Negara](https://github.com/MuliaHartawan)
 - [Muhamad Irsyad Rafi Sudirjo](https://github.com/IrsyadRafiSudirjo)
 - [Sulton Ainun Nazib] (github.com/inun7)
+- [Rifky Rahman] (https://github.com/ikip1924)
