@@ -1,2 +1,3 @@
 - [Dedy Pamungkas](https://github.com/dedypamungkas)
 - [Muhammad Nur Alim](https://github.com/Limeless04)
+- [Muhamad Irsyad Rafi Sudirjo](https://github.com/IrsyadRafiSudirjo)
