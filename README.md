@@ -1,119 +1,110 @@
-# internship
-Contribute DigiTiket Project
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[<img align="right" width="150" src="https://firstcontributions.github.io/assets/Readme/join-slack-team.png">](https://join.slack.com/t/firstcontributors/shared_invite/enQtNjkxNzQwNzA2MTMwLTVhMWJjNjg2ODRlNWZhNjIzYjgwNDIyZWYwZjhjYTQ4OTBjMWM0MmFhZDUxNzBiYzczMGNiYzcxNjkzZDZlMDM)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
 
-# First Contributions
+# Kontribusi Pertama
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Sulit. Selalu sulit saat pertama kali Anda melakukan sesuatu. Terutama ketika Anda berkolaborasi, membuat kesalahan bukanlah hal yang nyaman. Kami ingin menyederhanakan cara kontributor *open-source* baru belajar dan berkontribusi untuk pertama kalinya.
 
-_If you're not comfortable with command line, [here are tutorials using GUI tools.](#tutorials-using-other-tools)_
+Membaca artikel dan menonton tutorial dapat membantu, tetapi apa yang lebih baik daripada langsung mempraktikan hal-hal tersebut? Proyek ini bertujuan untuk memberikan panduan dan menyederhanakan cara memberikan kontribusi pertama bagi pemula. Jika Anda ingin memberikan kontribusi untuk pertama kalinya, ikuti langkah-langkah di bawah ini.
+
+#### _Jika Anda tidak nyaman dengan baris perintah, [di sini ada tutorial menggunakan GUI.](#tutorial-menggunakan-alat-lain)_
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+Apabila belum memiliki git, [ install segera ](https://help.github.com/articles/set-up-git/).
 
-## Fork this repository
+## Fork Repositori Ini
 
-Fork this repository by clicking on the fork button on the top of this page.
-This will create a copy of this repository in your account.
+Fork repositori ini dengan cara menekan tombol *fork* yang ada di bagian kanan atas layar.
+Hal tersebut akan membuat salinan repositori ini di akun anda.
 
-## Clone the repository
+## Klon Repositori
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Sekarang klon repositori ini ke komputer anda. Tekan tombol *clone* lalu tekan ikon "copy to clipboard".
 
-Open a terminal and run the following git command:
+Buka terminal dan eksekusi perintah git berikut:
 
 ```
-git clone "url you just copied"
+git clone "url yang telah Anda salin"
 ```
 
-where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
+yang mana "url yang telah Anda salin" (tanpa tanda petik) adalah url ke repositori ini. Lihat langkah sebelumnya untuk mendapatkan url.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
-For example:
+Contoh:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/username-anda/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+`username-anda` adalah *username* Github Anda. Pada langkah ini, Anda menyalin konten dari repositori first-contributions di GitHub ke komputer anda.
 
-## Create a branch
+## Membuat Cabang (Branch)
 
-Change to the repository directory on your computer (if you are not already there):
+Pindah ke direktori repositori Anda yang baru saja disalin (jika belum ada di sana):
 
 ```
 cd first-contributions
 ```
 
-Now create a branch using the `git checkout` command:
+Buat cabang dengan perintah `git checkout`:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b <add-nama-cabang-baru>
 ```
 
-For example:
+Contoh:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b fahriz
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
+(Nama cabang tidak perlu mengandung kata _add_ namun layak untuk ditambahkan karena tujuan dari cabang ini adalah menambahkan nama Anda ke dalam sebuah daftar.)
 
-## Make necessary changes and commit those changes
+## Buat Perubahan yang Diperlukan Lalu Commit Perubahan Tersebut
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
-
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
-
-Add those changes to the branch you just created using the `git add` command:
+Buka berkas `Contributors.md` menggunakan teks editor, tambahkan nama Anda ke dalamnya lalu simpan berkas tersebut. Apabila Anda masuk ke direktori dan mengeksekusi perintah `git status` maka Anda dapat melihat bahwa telah ada perubahan. Tambahkan perubahan tersebut ke dalam cabang yang sebelumnya telah dibuat menggunakan perintah `git add`:
 
 ```
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Simpan perubahan tersebut menggunakan perintah `git commit`:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "Add <nama> to Contributors list"
 ```
 
-replacing `<your-name>` with your name.
+Ubah `<nama>` dengan nama anda.
 
-## Push changes to GitHub
+## Dorong (Push) Perubahan ke GitHub
 
-Push your changes using the command `git push`:
+Dorong perubahan menggunakan perintah `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin <add-nama-cabang-baru>
 ```
 
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+Ubah `<add-nama-cabang-baru>` dengan nama cabang yang sebelumnya telah dibuat.
 
-## Submit your changes for review
+## Submit Perubahan untuk Diperiksa
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+Jika Anda membuka repositori Anda di GitHub, maka akan ada tombol `Compare & pull request`. Tekan tombol tersebut.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
 
-Now submit the pull request.
+Kirimkan *Pull Request* (PR)
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Segera Saya (pengelola) akan menggabungkan semua perubahan Anda ke cabang utama dari proyek ini. Anda akan mendapatkan email notifikasi setelah perubahan digabungkan.
 
-## Where to go from here?
+## Ke Mana Lagi Setelah dari Sini?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Selamat! Anda baru saja menyelesaikan *fork* -> *clone* -> ubah -> *Pull Request* sebuah alur kerja yang akan sering Anda temui sebagai kontributor!
 
-Celebrate your contribution and share it with your friends and followers by going to [web app](https://firstcontributions.github.io/#social-share).
-
-You could join our slack team in case you need any help or have any questions. [Join slack team](https://join.slack.com/t/firstcontributors/shared_invite/zt-kpbyrmkk-JDkRtchcvRvQ0qK4iPmyvA).
-
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
-
-### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
