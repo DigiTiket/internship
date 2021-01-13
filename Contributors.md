@@ -3,7 +3,7 @@
 - [Mgs. Tabrani] (https://github.com/mgstabrani)
 - [Mulia Hartawan Negara] (https://github.com/MuliaHartawan)
 - [Muhamad Irsyad Rafi Sudirjo] (https://github.com/IrsyadRafiSudirjo)
-- [Sulton Ainun Nazib] (github.com/inun7)
+- [Sulton Ainun Nazib] (https://github.com/inun7)
 - [Rifky Rahman] (https://github.com/ikip1924)
 - [Ismail Hadi Putra] (https://github.com/ismailrailgun21)
 - [Kevin Haffizzana Untoro Wiwaha] (https://github.com/kevinwiwaha)
