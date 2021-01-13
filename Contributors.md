@@ -9,3 +9,4 @@
 - [Kevin Haffizzana Untoro Wiwaha] (https://github.com/kevinwiwaha)
 - [Dimas Rafi](https://github.com/Dime07)
 - [Rival Fauzi](https://github.com/rivalku21)
+- [Cathrine Cania] (https://github.com/Rinenia)
