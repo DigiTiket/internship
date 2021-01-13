@@ -11,3 +11,4 @@
 - [Rival Fauzi] (https://github.com/rivalku21)
 - [Fahriz Dimasqy] (https://github.com/fahrizdimasqy)
 - [Cathrine Cania] (https://github.com/Rinenia)
+- [Amalia Hanisafitri] (https://github.com/amaliahanisa)
