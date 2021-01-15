@@ -1,0 +1,33 @@
+.searchbar {
+  position: relative;
+  width: 550px;
+  height: 64px;
+  margin: 0 auto;
+  top: 32px;
+  left: 10px;
+
+  background: #ffffff;
+  box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.24);
+  display: flex;
+}
+
+.searchlogo {
+  position: absolute;
+  margin-left: 24px;
+  margin-top: 20px;
+}
+
+.searchtext {
+  position: absolute;
+  margin-left: 60px;
+  margin-top: 21px;
+
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+
+  color: rgba(0, 0, 0, 0.5);
+}
