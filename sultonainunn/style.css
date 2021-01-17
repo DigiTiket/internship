@@ -1,0 +1,259 @@
+/*
+author: sulton ainun nazib;
+github: https://github.com/inun7;
+*/
+
+/*preparation*/
+body {
+	background: #FFFFFF;
+	position: relative;
+	height: 1024px;
+}
+
+a {
+	text-decoration: none;
+}
+/*end preparation*/
+
+/*navbar*/
+.input-group {
+	width: 550px;
+}
+
+.btn-dropdown-profile {
+	background-color: #4E2E8A;
+	position: absolute;
+	width: 150px;
+	height: 40px;
+	margin-left: 715px;
+	text-align: center;
+}
+
+.nav-item a {
+	font-size: 18px;
+}
+
+.btn-nav-item-join-partners {
+	background: #4E2E8A;
+	position: absolute;
+	width: 170px;
+	height: 48px;
+	margin-left: 957px;
+	text-align: center;
+	font-size: 18px;
+}
+/*end navbar*/
+
+/*content*/
+.col-4 {
+	position: absolute;
+	width: 288px;
+	height: 359px;
+	background: #FFFFFF;
+	border: 1px solid rgba(175, 175, 175, 0.5);
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
+	border-radius: 5px;
+}
+
+.avatar1 {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	margin-top: 35px;
+	margin-left: 25px;
+}
+
+.lbl-name {
+	position: absolute;
+	margin-top: 40px;
+	margin-left: 110px;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	color: #000000;
+}
+
+.lbl-email {
+	color: #AFAFAF;
+	margin-top: 65px;
+	margin-left: 110px;
+	font-family: Lato;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.menu-profile {
+	margin-top: 45px;
+	margin-left: 35px;
+	margin-bottom: 5px;
+}
+
+.menu-profile a {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 22px;
+	color: #595757;
+}
+
+.col-8 {
+	position: absolute;
+	width: 768px;
+	height: 765px;
+	margin-left: 340px;
+	background: #FFFFFF;
+	border: 1px solid rgba(175, 175, 175, 0.5);
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
+	border-radius: 5px;
+}
+
+.profile-picture {
+	position: absolute;
+	width: 264px;
+	height: 341px;
+	background: #FFFFFF;
+	margin-top: 30px;
+	margin-left: 20px;
+	border: 1px solid rgba(175, 175, 175, 0.5);
+	box-sizing: border-box;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
+	border-radius: 5px;
+}
+
+.h5-profile-picture {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: #F05E86;
+	margin-top: 30px;
+}
+
+.img-profile-picture {
+	width: 160px;
+	height: 160px;
+}
+
+.image-upload>input {
+  display: none;
+}
+
+.change-data {
+	position: absolute;
+	width: 420px;
+	height: 375px;
+	background: #FFFFFF;
+	margin-top: 30px;
+	margin-left: 304px;
+	border-radius: 5px;
+}
+
+.h5-change-personal-data {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: #F05E86;
+}
+
+.lbl {
+	position: absolute;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.lbl-registration-date {
+	position: absolute;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+	margin-top: 390px;
+	margin-left: 25px;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+.change-contact {
+	position: absolute;
+	width: 700px;
+	height: 200px;
+	background: #FFFFFF;
+	margin-top: 450px;
+	margin-left: 20px;
+	border-radius: 5px;
+}
+
+.h5-change-contact {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: #F05E86;
+}
+
+.a-change-email {
+	position: absolute;
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 17px;
+	margin-left: 610px;
+	color: #4E2E8A; /* purple */
+}
+
+.img-verified-email {
+	height: 28px;
+	margin-top: -66.5px;
+	margin-left: 565px;
+}
+
+.img-verified-phone {
+	height: 28px;
+	margin-top: -66.5px;
+	margin-left: 565px;
+}
+
+
+.btn-cancel {
+	position: absolute;
+	width: 100px;
+	height: 36px;	
+	background-color: #F05E86; /* pink */
+	color: white;
+	border-radius: 5px;
+	border-color: #F05E86; /* pink */
+	margin-top: 685px;
+	margin-left: 20px;
+}
+
+.btn-save {
+	position: absolute;
+	width: 100px;
+	height: 36px;	
+	background-color: #4E2E8A; /* purple */
+	color: white;
+	border-radius: 5px;
+	border-color: #4E2E8A; /* purple */
+	margin-top: 685px;
+	margin-left: 130px;
+}
+
+/*content*/
+
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="fontawesome-free/css/all.min.css">
+    
+    <title>Ubah Profile</title>
+  </head>
+  <body>
+		<!-- navbar -->
+		<header>
+			<nav class="navbar navbar-expand-lg navbar-light bg-white mt-3">
+				<div class="container">
+					<a href="#">
+						<img style="width: 200px; height: 51.37px;" src="img/logo.png">
+						<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						  <span class="navbar-toggler-icon"></span>
+						</button>
+					</a>
+					&emsp;&emsp;&emsp;&emsp;
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<form class="d-flex">
+							<div class="form-group">
+								<div class="input-group">
+									<div class="input-group-prepend">
+										<div class="input-group-text">
+											<img style="height: 30px;" src="img/search.png">
+										</div>
+									</div>
+									<input class="form-control me-2" type="search" placeholder="Temukan Event, Wahana Wisata, Virtual Tour, Lain-lain." aria-label="Search">
+								</div>
+							</div>
+						</form>
+						<div class="btn-dropdown-profile">
+						  <a class="btn dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false" style="color: white;">
+							Hai, Angelia!
+						  </a>
+						  <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+							<li><a class="dropdown-item" href="#">Profile</a></li>
+							<li><a class="dropdown-item" href="#">Settings</a></li>
+							<li><a class="dropdown-item" href="#">Logout</a></li>
+						  </ul>
+						</div>
+					</div>
+				</div>
+			</nav>
+			<nav class="navbar navbar-expand-lg navbar-light bg-white mt-3" style="border: 1px solid rgba(175, 175, 175, 0.5);">
+			  <div class="container">
+				<div class="collapse navbar-collapse" id="navbarNav">
+				  <ul class="navbar-nav">  
+					<li class="nav-item">
+					  <a class="nav-link active" aria-current="page" href="#">
+					  <img style="height: 30px;" src="img/attraction.png"/> Attraction</a>
+					</li> &emsp;
+					<li class="nav-item">
+					  <a class="nav-link active" href="#">
+					  <img style="height: 30px;" src="img/event.png"/> Event</a>
+					</li> &emsp;
+					<li class="nav-item">
+					  <a class="nav-link active" href="#">
+					  <img style="height: 30px;" src="img/tour.png"/> Tour </a>
+					</li> &emsp;
+					<li class="nav-item">
+					  <a class="nav-link active" href="#">
+					  <img style="height: 15px;" src="img/virtual-tour.png"/> Virtual Tour </a>
+					</li>
+					<li class="btn-nav-item-join-partners">
+					  <a class="nav-link active" href="#" style="color: white">
+					  <img style="height: 15px;" src="img/join-partners.png"> Gabung Mitra</a>
+					</li>
+				  </ul>  
+				</div>
+			  </div>
+			</nav>
+		</header>
+		<!-- end navbar -->
+		<br>
+		<!-- content -->
+		<section>
+			<div class="container">
+			  <div class="row">
+				<div class="col-4">
+					<div class="details-profile">
+						<img class="avatar1" src="img/avatar-small.png"/>
+						<label class="lbl-name">David Al</label>
+						<label class="lbl-email">aldavid@gmail.com</label> <br>
+						<div class="menu-profile">
+							<img class="icon-user" src="img/user.png"/> &emsp; <a href="#">Ubah Profil</a> <br> <br>
+							<img class="icon-lock" src="img/lock.png"/> &emsp; <a href="#">Ubah Password</a> <br> <br>
+							<img class="icon-shopping-bag" src="img/shopping-bag.png"/> &emsp; <a href="#">Pembelian</a> <br> <br>
+							<img class="icon-dollar" src="img/dollar.png"/> &emsp; <a href="#">Pembayaran</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-8">
+					<form>
+						<div class="profile-picture text-center">
+							<h5 class="h5-profile-picture">Foto Profil</h5> <br>
+							<img class="img-profile-picture" src="img/avatar-big.png"/> <br> <br>
+							<div class="image-upload">
+								<label for="file-input">
+								<img src="img/btn-upload-foto.png"/>
+								</label>
+								<input id="file-input" type="file" />
+							</div>
+						</div>
+						<div class="change-data">
+							<h5 class="h5-change-personal-data">Ubah Data Diri</h5> <br>
+							<label class="lbl">Nama Depan</label> <br>
+							<input class="form-control" type="text" name="fname" value="David"/> <br>
+							<label class="lbl">Nama Belakang</label> <br>
+							<input class="form-control" type="text" name="lname" value="Al"/> <br>
+							<label class="lbl">Tanggal Lahir</label> <br>
+							<input class="form-control" type="date" data-date-format="dd MM yy" name="date" value="1997-01-01"/> <br>
+							<label class="lbl">Jenis Kelamin</label> <br>
+							<input class="form-control" type="text" name="gender" value="Laki-Laki" readonly/>
+						</div>
+						<label class="lbl-registration-date">Tanggal Pendaftaran &emsp;&emsp;&emsp;&emsp; 12-06-2020</label>
+						<div class="change-contact">
+							<h5 class="h5-change-contact">Ubah Kontak</h5> <br>
+							<label class="lbl">Email</label> <a class="a-change-email" href="#">Ganti Email</a> <br>
+							<input class="form-control" type="email" name="email" value="aldavid@gmail.com" readonly/> <img class="img-verified-email" src="img/verified.png"> <br>
+							<label class="lbl">No Handphone</label> <br>
+							<input class="form-control" type="tel" name="phone" maxlength="13" value="08127 8921 7921"/> <img class="img-verified-phone" src="img/verified.png"> <br>
+						</div>
+						<button class="btn-cancel" type="reset">Batal</button>
+						<button class="btn-save" type="submit">Simpan</button>
+					</form>
+				</div>
+			  </div>
+			</div>
+		</section>
+		<!-- end content -->
+		
+		
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+  </body>
+</html>
