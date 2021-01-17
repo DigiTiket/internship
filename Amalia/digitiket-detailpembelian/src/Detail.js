@@ -57,7 +57,7 @@ function Detail() {
           <tr>
             <td>Tanggal pemesanan</td>
             <td >:</td>
-            <td>Tanggal pemesanan</td>
+            <td>30 Desember 2020 - 22:23</td>
           </tr>
         </table>
       </div>
