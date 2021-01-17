@@ -1,0 +1,3 @@
+List yang belum dilakuin:
+-membuat responsive
+-membuat sistem searching melalui judul dan dropdown waktu
