@@ -1,0 +1,138 @@
+*{
+    font-size: 16px;
+    transition: 0.13s all ease;
+}
+hr{
+    margin: 0 !important;
+}
+ul{
+    padding: 0;
+}
+ul li{
+    list-style-type: none;
+}
+input[type="search"]:focus{
+    outline-style: none;
+    box-shadow: 0px 0px 8px #4E2E8A99 !important;
+    transition: 0.2s all ease;
+}
+input[type="password"]::placeholder{
+    letter-spacing: 0;
+}
+input[type="password"]{
+    letter-spacing: 3px;
+}
+button:focus{
+    outline:none !important;
+}
+figure{
+    margin-bottom: 0 !important;
+}
+figcaption{
+    font-size: 14px;
+}
+.form-control:focus{
+    outline-style: none;
+    border-color: transparent !important;
+    box-shadow: 0px 0px 2px #4E2E8A !important;
+}
+.nav-item{
+    border-left: 1px solid rgba(0,0,0,0.1);
+}
+.nav-item:nth-child(4){
+    border-right: 1px solid rgba(0,0,0,0.1);
+}
+.nav-item:hover{
+    background-color: #4E2E8A33;
+}
+.search-icon{
+    position: absolute;
+    left: 1rem;
+}
+.card{
+    width: fit-content;
+    height: fit-content;
+}
+.card-link:hover *{
+    color: #4E2E8A !important;
+}
+.dropdown-toggle::after{
+    transition: 0.4s all ease;
+}
+.dropdown.show .dropdown-toggle::after{
+    transition: 0.4s all ease   ;
+    transform: rotate(180deg);
+}
+.dropdown-menu{
+    transition: 0.2s all ease;
+}
+.dropdown-item{
+    filter: grayscale(100%);
+    opacity: 0.5;
+}
+.dropdown-item:hover{
+    filter: grayscale(0%);
+    opacity: 1;
+}
+.dropdown-item:active{
+    background-color: transparent !important;
+}
+.btn-main{
+    background-color: #4E2E8A;
+    color: white;
+}
+.btn-accent{
+    background-color: #F05E86;
+    color: white;
+}
+.profile{
+    margin-top: 12rem;
+}
+.profile .card iframe img{
+    object-fit: cover;
+}
+.eye{
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-top: 1rem;
+    padding-right: 1rem;
+}
+.selected{
+    background-color: white;
+    border-left: 8px solid #4E2E8A !important;
+}
+.selected .card-link{
+    color: #4E2E8A;
+    margin-left: -8px;
+}
+.text-main{
+    color: #4E2E8A;
+}
+.text-accent{
+    color: #F05E86;
+}
+.text-secondary{
+    font-size: 14px !important;
+}
+
+@media (max-width:992px){
+    #searchSupportedContent{
+        width: 100% !important;
+    }
+    .card{
+        width: 100%;
+        height: fit-content;
+    }
+    .profile{
+        margin-top: 7rem;
+    }
+    .nav-item{
+        border: 0 !important;
+        width: 100%;
+    }
+    hr{
+        display: none !important;
+    }
+}
