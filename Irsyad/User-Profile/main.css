@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.text-pink {
+  color: #f05e86;
+}
+/* 
+Header */
+header .btn-purple {
+  color: #fff;
+  background-color: #4e2e8a;
+}
+
+header input {
+  box-shadow: 0px 0px 8px 2px rgba(0, 0, 0, 0.24);
+}
+
+.main-section h5 {
+  font-size: 18px;
+}
+
+.main-section p {
+  font-size: 14px;
+}
+
+.main-section a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* main section : profile section */
+.main-section .section-background {
+  border: 1px solid rgba(175, 175, 175, 0.5);
+  box-sizing: border-box;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+.main-section .info {
+  line-height: 0;
+}
+
+.main-section .active {
+  background: linear-gradient(
+    90deg,
+    #4e2e8a 0%,
+    #4e2e8a 0.01%,
+    #4e2e8a 0.02%,
+    #4e2e8a 0.02%,
+    rgba(255, 255, 255, 0) 2.79%
+  );
+}
+
+/* main section : content-section */
+
+.main-section .content-section .input-group {
+  border: 1px solid rgba(175, 175, 175, 0.5);
+}
+
+.main-section .content-section .passwordForm .form-control:focus {
+  border-color: none;
+  box-shadow: none;
+}
+.main-section .content-section .disabled-input {
+  background-color: #e9ecef;
+}
+.main-section .content-section .verificationForm .form-control:focus {
+  border-color: none;
+  box-shadow: none;
+}
+
+.main-section .content-section .green-background {
+  background: rgba(59, 241, 137, 0.5);
+  color: #219653;
+}
+.main-section .content-section .green-light-background {
+  background-color: #219653;
+  color: #fff;
+}
+
+.main-section .btn-pink {
+  color: #fff;
+  background-color: #f05e86;
+}
+
+.main-section .btn-purple {
+  color: #fff;
+  background-color: #4e2e8a;
+}
+
+@media (min-width: 992px) {
+  header .main {
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
+  }
+  header .nav-list {
+    border-left: 1px solid #eeeeee;
+    border-right: 1px solid #eeeeee;
+  }
+}
+
+@media (max-width: 991.98px) {
+  header form {
+    margin-top: 2.5rem;
+  }
+}
