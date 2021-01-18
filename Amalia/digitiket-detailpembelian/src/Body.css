@@ -1,0 +1,17 @@
+.body {
+  position: relative;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  width: 100%;
+  min-width: 1440px;
+  height: 1000px;
+}
+
+.body-container {
+  position: relative;
+  display: flex;
+  width: 1440px;
+  height: 100%;
+  margin: 0 auto;
+}
