@@ -1,0 +1,3 @@
+- Tampilan belum responsif 
+- Code masih kurang efisien 
+- Ada beberapa bagian yang kurang sesuai dengan desain 
