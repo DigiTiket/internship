@@ -1,0 +1,299 @@
+:root {
+  --purple: #4e2e8a;
+  --pink: #f05e86;
+  --green: #219653;
+  --grey: #808080;
+  --black: #000000;
+}
+
+body {
+  color: var(--black);
+  scroll-behavior: smooth;
+  font-family: lato;
+}
+
+.wrap-container {
+  overflow: hidden;
+}
+
+.search-input {
+  width: 100%;
+  height: 59px;
+  border-radius: 0px;
+  box-shadow: 1px 1px 1px 1px rgb(155, 154, 154);
+}
+
+.btn-login {
+  background-color: var(--purple);
+  color: #ffffff;
+  width: 100%;
+  height: 64px;
+  border: none;
+}
+
+.btn-history {
+  background: #4E2E8A;
+  border: 1px solid #4E2E8A;
+  box-sizing: border-box;
+  color: white;
+}
+
+.btn-history:hover {
+  background: #391e6b;
+  color: white;
+}
+
+.btn-mitra {
+  background-color: var(--purple);
+  color: #ffffff;
+  width: 50%;
+  height: 64px;
+  border: none;
+}
+
+.btn-mitra:hover,
+.btn-login:hover {
+  background-color: var(--pink);
+}
+
+.nav-link {
+  color: var(--grey);
+  font-size: 18px;
+}
+
+.nav-item {
+  list-style-type: none;
+}
+
+.nav-link:hover {
+  background-color: var(--pink);
+  color: white;
+}
+
+.avatar {
+  width: 35%;
+  clip-path: circle();
+}
+
+.active,
+.profile:hover {
+  color: var(--purple);
+  list-style-type: symbols(u);
+  border-left: 3px solid var(--purple);
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+.time-desc {
+  color: var(--grey);
+  font-size: 18px;
+}
+
+.btn-lunas {
+  background-color: var(--green);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 1% 5%;
+}
+
+.btn-detail {
+  background-color: var(--purple);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 1% 5%;
+}
+
+.btn-download {
+  background-color: var(--pink);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 1% 5%;
+}
+
+.btn-login:focus {
+  border-color: #f05e86;
+}
+
+.thumbnail {
+  width: 160%;
+}
+
+.search-icon {
+  width: 4%;
+}
+
+.lbl {
+  position: absolute;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.lbl-registration-date {
+  position: absolute;
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  top: 51.5%;
+  left: 4%;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+
+.text-pink {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  /* pink */
+  color: #F05E86;
+}
+
+.btn-batal {
+  background: #F05E86;
+}
+
+.btn-batal:hover {
+  background: #af4d67;
+}
+
+.btn-simpan {
+  background: #3c236b;
+}
+
+.btn-simpan:hover {
+  background: #281649;
+}
+
+
+.img-verified-email {
+  height: 28px;
+  margin-top: -66.5px;
+  margin-left: 650px;
+}
+
+.img-verified-phone {
+  height: 28px;
+  margin-top: -66.5px;
+  margin-left: 650px;
+}
+
+.change-contact {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+
+
+
+/* Ukuran MD */
+@media (max-width: 768px) {
+  .menu-kedua {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .btn-mitra {
+    width: 60%;
+  }
+
+  .avatar {
+    width: 20%;
+  }
+
+  .card-body {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .thumbnail {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .search-icon {
+    width: 4%;
+  }
+
+  .lbl-registration-date {
+    position: absolute;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    top: 70%;
+    margin-left: 2%;
+    color: rgba(0, 0, 0, 0.5);
+  }
+
+
+
+}
+
+/* Ukutan SM */
+@media (max-width: 575px) {
+  .day {
+    background-color: var(--purple) !important;
+    border: none;
+    padding: 5% 18%;
+    color: white;
+    border-radius: 5px;
+    width: 100%;
+  }
+
+  .search-input {
+    width: 140%;
+  }
+
+  .menu-kedua {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .btn-mitra {
+    width: 100%;
+  }
+
+  .avatar {
+    width: 25%;
+  }
+
+  .thumbnail {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  .btn-login {
+    display: none;
+  }
+
+  .img-verified-phone,
+  .img-verified-email {
+    margin-left: 160px;
+  }
+
+  .change-contact {
+    margin-left: 2%;
+    margin-right: 2%;
+  }
+}
+
+@media (max-width: 370px) {
+  .search-input {
+    width: 100%;
+  }
+}
