@@ -15,3 +15,4 @@
 - [Amalia Hanisafitri] (https://github.com/amaliahanisa)
 - [Annisaa Utami] (https://github.com/anchaaay)
 - [Novita Alya R] (https://github.com/novitaalya1)
+- [Nur Innas T] (https://github.com/inntas)
