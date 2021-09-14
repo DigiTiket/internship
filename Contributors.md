@@ -17,4 +17,6 @@
 - [Novita Alya R] (https://github.com/novitaalya1)
 - [Irmatul Azizah] (https://github.com/irmatulazizah)
 - [Isma Shafiraa] (https://github.com/ismashafira)
+- [Nirwana Safitri] (https://github.com/NirwanaS)
+- [Nur Innas T] (https://github.com/inntas)
 - [Rahman Bagass] (https://github.com/Rahman-Bagass)
