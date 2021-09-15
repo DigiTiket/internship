@@ -20,3 +20,4 @@
 - [Nirwana Safitri] (https://github.com/NirwanaS)
 - [Nur Innas T] (https://github.com/inntas)
 - [Rahman Bagass] (https://github.com/Rahman-Bagass)
+- [Widyastuti Ria Kornelia] (https://github.com/WidyastutiRiaKornelia)
