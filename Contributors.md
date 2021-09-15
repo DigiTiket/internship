@@ -21,3 +21,4 @@
 - [Nur Innas T] (https://github.com/inntas)
 - [Rahman Bagass] (https://github.com/Rahman-Bagass)
 - [Widyastuti Ria Kornelia] (https://github.com/WidyastutiRiaKornelia)
+- [Sekar Kinanthi I] (https://github.com/kinaninaray)
