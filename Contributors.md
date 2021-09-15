@@ -17,3 +17,4 @@
 - [Novita Alya R] (https://github.com/novitaalya1)
 - [Irmatul Azizah] (https://github.com/irmatulazizah)
 - [Isma Shafiraa] (https://github.com/ismashafira)
+- [Bagja Bagus] (https://github.com/BagjaBagus) 
