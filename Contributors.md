@@ -23,3 +23,4 @@
 - [Widyastuti Ria Kornelia] (https://github.com/WidyastutiRiaKornelia)
 - [Sekar Kinanthi I] (https://github.com/kinaninaray)
 - [Bagja Bagus] (https://github.com/BagjaBagus)
+- [Rosma Khoirul Asiyya] (https://github.com/RosmaAsyiya)
