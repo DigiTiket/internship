@@ -23,4 +23,7 @@
 - [Widyastuti Ria Kornelia] (https://github.com/WidyastutiRiaKornelia)
 - [Sekar Kinanthi I] (https://github.com/kinaninaray)
 - [Bagja Bagus] (https://github.com/BagjaBagus)
+- [Ira Ayu Lestari] (https://github.com/Iraalestari2611)
+- [Alfa Surya] (https://github.com/AlfaSurya14)
+- [Faizu Az-Zahra] (https://github.com/ra25faizuazzahra)
 - [Rosma Khoirul Asiyya] (https://github.com/RosmaAsyiya)
