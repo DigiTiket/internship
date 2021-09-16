@@ -26,3 +26,4 @@
 - [Ira Ayu Lestari] (https://github.com/Iraalestari2611)
 - [Alfa Surya] (https://github.com/AlfaSurya14)
 - [Faizu Az-Zahra] (https://github.com/ra25faizuazzahra)
+- [Rosma Khoirul Asiyya] (https://github.com/RosmaAsyiya)
