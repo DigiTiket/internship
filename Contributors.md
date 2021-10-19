@@ -30,3 +30,4 @@
 - [Andini Tyas] (https://github.com/pagdrgn)
 - [Reihan Setya Abida] (https://github.com/reihansetya)
 - [M. Ihsan An-Nashir] (https://github.com/ihsanannashir)
+- [Ara Gamaliel Boanerges] (https://github.com/gamalielara)
