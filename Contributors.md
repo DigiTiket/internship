@@ -29,3 +29,4 @@
 - [Rosma Khoirul Asiyya] (https://github.com/RosmaAsyiya)
 - [Andini Tyas] (https://github.com/pagdrgn)
 - [Reihan Setya Abida] (https://github.com/reihansetya)
+- [Didiek Trisatya] (https://github.com/Trisatya-Programming)
