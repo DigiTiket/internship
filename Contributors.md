@@ -33,3 +33,4 @@
 - [Ara Gamaliel Boanerges] (https://github.com/gamalielara)
 - [Didiek Trisatya] (https://github.com/Trisatya-Programming)
 - [M.Fahmi Aresha] (https://github.com/fahmiaresha)
+- [Muhammad Fajar] (https://github.com/mhmfajar)
