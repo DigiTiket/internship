@@ -28,4 +28,11 @@
 - [Faizu Az-Zahra] (https://github.com/ra25faizuazzahra)
 - [Rosma Khoirul Asiyya] (https://github.com/RosmaAsyiya)
 - [Andini Tyas] (https://github.com/pagdrgn)
+- [Reihan Setya Abida] (https://github.com/reihansetya)
+- [M. Ihsan An-Nashir] (https://github.com/ihsanannashir)
+- [Ara Gamaliel Boanerges] (https://github.com/gamalielara)
+- [Didiek Trisatya] (https://github.com/Trisatya-Programming)
+- [M.Fahmi Aresha] (https://github.com/fahmiaresha)
+- [Muhammad Fajar] (https://github.com/mhmfajar)
 - [Bastian Arfianto] (https://github.com/bastianarf)
+
