@@ -35,4 +35,5 @@
 - [M.Fahmi Aresha] (https://github.com/fahmiaresha)
 - [Muhammad Fajar] (https://github.com/mhmfajar)
 - [Bastian Arfianto] (https://github.com/bastianarf)
+- [Muhammad Rafi Salsabil] (https://github.com/rafis13)
 
