@@ -36,4 +36,4 @@
 - [Muhammad Fajar] (https://github.com/mhmfajar)
 - [Bastian Arfianto] (https://github.com/bastianarf)
 - [Muhammad Rafi Salsabil] (https://github.com/rafis13)
-
+- [Maevy Marvella] (https://github.com/maevym)
