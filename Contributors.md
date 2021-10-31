@@ -37,3 +37,4 @@
 - [Bastian Arfianto] (https://github.com/bastianarf)
 - [Muhammad Rafi Salsabil] (https://github.com/rafis13)
 - [Maevy Marvella] (https://github.com/maevym)
+- [Agni Nafitri] (https://github.com/agnftr)
