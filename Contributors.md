@@ -39,3 +39,5 @@
 - [Maevy Marvella] (https://github.com/maevym)
 - [Agni Nafitri] (https://github.com/agnftr)
 - [Khoirul Ummam] (https://github.com/KhoirulUmmam)
+- [Rico Chandra] (https://github.com/ricochandra13)
+
