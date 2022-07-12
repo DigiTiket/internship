@@ -38,3 +38,4 @@
 - [Muhammad Rafi Salsabil] (https://github.com/rafis13)
 - [Maevy Marvella] (https://github.com/maevym)
 - [Agni Nafitri] (https://github.com/agnftr)
+- [Rico Chandra] (https://github.com/ricochandra13)
