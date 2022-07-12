@@ -38,6 +38,7 @@
 - [Muhammad Rafi Salsabil] (https://github.com/rafis13)
 - [Maevy Marvella] (https://github.com/maevym)
 - [Agni Nafitri] (https://github.com/agnftr)
+- [Muhammad Syarif Setiadi] (https://github.com/Msyarif17)
 - [Khoirul Ummam] (https://github.com/KhoirulUmmam)
 - [Rico Chandra] (https://github.com/ricochandra13)
 
