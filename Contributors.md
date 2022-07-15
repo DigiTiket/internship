@@ -41,4 +41,4 @@
 - [Muhammad Syarif Setiadi] (https://github.com/Msyarif17)
 - [Khoirul Ummam] (https://github.com/KhoirulUmmam)
 - [Rico Chandra] (https://github.com/ricochandra13)
-
+- [Fahmi Nur Sidiq] (https://github.com/fahminursidiq)
